@@ -1,0 +1,44 @@
+body{
+	background:#A3ECE1;
+}
+.tre{
+	width:1000px;
+	height:200px;
+}
+.big{
+	font-size:15px;
+	font-family:Veranda;
+	color:rgb(240,34,0);
+}
+img{
+	width:300px;
+	height:250px;
+}
+.drak{
+	color:#940444;
+}
+.lit{
+	color:#AC034E
+}
+.lite{
+	color:#C20459
+}
+.litty{
+	color:#D60662
+}
+.hell{
+	color:#F0056D;
+}
+.fiv{
+	height:300px;
+}
+.coolo{
+	font-size:18px;
+	font-family:Times New Romans;
+}
+.spam{
+	font-style:italic;
+}
+h2{
+	color:#1008B5
+}
